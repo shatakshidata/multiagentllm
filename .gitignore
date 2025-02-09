@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.pyc
+multi_agent_system.log

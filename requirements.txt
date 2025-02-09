@@ -1,0 +1,10 @@
+pandas
+numpy
+openai
+plotly
+seaborn
+matplotlib
+pyyaml
+fastapi
+uvicorn
+concurrent.futures
